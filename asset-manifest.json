@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unform-challenge/static/css/main.a3fb8aa5.chunk.css",
+    "main.js": "/unform-challenge/static/js/main.ee57419a.chunk.js",
+    "main.js.map": "/unform-challenge/static/js/main.ee57419a.chunk.js.map",
+    "runtime~main.js": "/unform-challenge/static/js/runtime~main.d47dbee1.js",
+    "runtime~main.js.map": "/unform-challenge/static/js/runtime~main.d47dbee1.js.map",
+    "static/js/2.757d2875.chunk.js": "/unform-challenge/static/js/2.757d2875.chunk.js",
+    "static/js/2.757d2875.chunk.js.map": "/unform-challenge/static/js/2.757d2875.chunk.js.map",
+    "index.html": "/unform-challenge/index.html",
+    "precache-manifest.8422d56891bf468b0501236ce7e05795.js": "/unform-challenge/precache-manifest.8422d56891bf468b0501236ce7e05795.js",
+    "service-worker.js": "/unform-challenge/service-worker.js",
+    "static/css/main.a3fb8aa5.chunk.css.map": "/unform-challenge/static/css/main.a3fb8aa5.chunk.css.map"
+  }
+}
