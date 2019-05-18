@@ -2,6 +2,7 @@
   "name": "unform-challenge",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://victorlandim.github.io/unform-challenge",
   "dependencies": {
     "@rocketseat/unform": "^1.3.0",
     "react": "^16.8.6",
